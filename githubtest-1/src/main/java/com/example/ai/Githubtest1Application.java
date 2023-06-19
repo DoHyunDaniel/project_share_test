@@ -1,5 +1,7 @@
 package com.example.ai;
 
+/*임의의 주석 추가(김도현)*/
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
